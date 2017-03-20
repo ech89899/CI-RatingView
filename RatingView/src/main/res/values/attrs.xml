@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingView">
+        <attr name="android:entries"/>
+        <attr name="entryWidth" format="dimension"/>
+        <attr name="selectedPosition" format="integer"/>
+        <attr name="selectedTextColor" format="color"/>
+        <attr name="android:textColor"/>
+    </declare-styleable>
+</resources>
